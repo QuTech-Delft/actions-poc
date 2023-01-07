@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "actions_poc"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.7"
 
 
 [build-system]
